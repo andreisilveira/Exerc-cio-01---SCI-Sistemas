@@ -1,6 +1,6 @@
 # Exercício 01 - SCI-Sistemas Contábeis
 
-O exercício 01 do programa de estágio 2023 da empresa SCI sistemas contábeis. O exercício consistiu em solicitar a inserção de 5 números, imprimir os números pares, 
+O exercício 01 do programa de estágio 2023 da empresa SCI Sistemas Contábeis. O exercício consistiu em solicitar a inserção de 5 números, imprimir os números pares, 
 os números ímpares e a média geral desses números usando as tecnologias HTML, CSS e JavaScript.
 
 Para completar o exercício, eu usei HTML para criar a estrutura básica da página e um formulário onde o usuário poderia inserir os números. Eu também usei CSS para 
