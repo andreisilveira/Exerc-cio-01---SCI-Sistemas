@@ -13,3 +13,5 @@ Por fim, exibi os números pares, ímpares e a média geral na página usando Ja
 O resultado final foi uma página simples, mas funcional, que permitiu ao usuário inserir números e ver os resultados.
 
 Para conferir o resultado você pode acessar o deploy no link abaixo:
+
+https://exercicio01-sci-sistemas.netlify.app/
